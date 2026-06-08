@@ -1,0 +1,41 @@
+# Sujun Zhu
+
+Sujun Zhu is a full-stack engineer turned Development Manager at IXL Learning in San Mateo, California.
+
+## Current Role
+
+- Development Manager at IXL Learning
+- Manages two teams across Education.com, Takeoff by IXL, and adjacent product areas
+- Focuses on execution, alignment, team structure, product ownership, and engineering team growth
+
+## Background
+
+- 7+ years building and leading at IXL Learning
+- Former Engineering Project Lead for Teacher Analytics
+- Former Senior Software Engineer and Software Engineer on analytics and product systems
+- Built teacher-facing analytics systems and reporting infrastructure for products serving 14M+ subscribers
+- Peak direct management scope: 8 direct reports, including an intern
+- Conducted 220+ engineering interview rounds
+
+## Recruiter-Relevant Keywords
+
+- Engineering Manager
+- Development Manager
+- Full-stack engineering leader
+- Senior software engineer
+- Engineering leadership
+- Java
+- React
+- Analytics systems
+- Education technology
+- Cross-functional product execution
+- Mentoring engineers
+- Hiring and interviewing
+- San Mateo
+
+## Links
+
+- Website: https://sujunzhu.me/
+- Resume: https://sujunzhu.me/assets/resume.pdf
+- LinkedIn: https://www.linkedin.com/in/sujunzhu/
+- Email: zhusujun199495@gmail.com
